@@ -10,10 +10,6 @@ public class Gun {
 	weight=wt;
 	colour=clr;
 	
+	}
+	}
 	
-	}
-	//void show() {
-		//System.out.println(noofbullet+ " "+weight +" "+colour);
-	}
-
-
