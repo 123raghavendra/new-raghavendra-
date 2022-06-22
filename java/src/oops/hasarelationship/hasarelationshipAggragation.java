@@ -8,7 +8,7 @@ public class hasarelationshipAggragation {
 		library. student.id="a01";
 		library. student.name ="Rajakumar";
 		library. student.branch ="EC";
-		library.  name="sharada";
+		library. name="sharada";
 		library.location="bengaluru";
 		
 		System.out.println("library name:"+library.  name);
