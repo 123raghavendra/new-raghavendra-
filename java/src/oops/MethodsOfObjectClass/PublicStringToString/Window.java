@@ -6,7 +6,7 @@ public class Window {
 	double Height;
 	double Width;
 	
-	Window( String type,double Height,double Width ){
+	Window(String type,double Height,double Width ){
 	this.type=type;
 	this.Height=Height;
 	this.Width=Width;
