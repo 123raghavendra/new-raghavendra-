@@ -11,7 +11,7 @@ public class dogtest {
 		
 		System.out.println("name"+dog.getName());
 		System.out.println("colour"+dog.getColour());
-		System.out.println("german"+dog.getBread());
+		System.out.println("Bread"+dog.getBread());
 		System.out.println("age"+dog.getAge());
 		System.out.println("price"+dog.getPrice());
 		

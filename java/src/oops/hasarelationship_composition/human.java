@@ -1,6 +1,8 @@
-package oops;
+package oops.hasarelationship_composition;
 
- public class human {
+
+
+public class human {
 
 	 String haircolour;
 		String eyecolour;
@@ -18,4 +20,5 @@ package oops;
 		}
 
 	}
+
 

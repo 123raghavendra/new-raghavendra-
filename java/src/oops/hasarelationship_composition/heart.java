@@ -1,6 +1,7 @@
-package oops;
+package oops.hasarelationship_composition;
 
-public class heart {
+
+public class heart extends human {
 	
 		String colour;
 		String btimes;
