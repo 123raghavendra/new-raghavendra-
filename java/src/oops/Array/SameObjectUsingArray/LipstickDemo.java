@@ -10,10 +10,11 @@ public class LipstickDemo {
 		
 		Lipstick[] lipsticks= {Lakme,mac,myglam,maybeline,sugar};
 		for(int i=0;i<lipsticks.length;i++) {
+		//if(lipsticks[i].Price<10) {
 		
 			System.out.println(lipsticks[i]);
 		}
 		
 	}
+	}
 
-}
