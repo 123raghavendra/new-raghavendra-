@@ -10,7 +10,7 @@ public class ArrayDemo {
         //arr[1]=2                   2]institation
         //arr[2]=3                   3] instilization
         //arr[3]=4
-         //or 
+         //or use loop for initalizating values
 		 int num=1;
 		for(int i=0; i<arr.length;i++ ) {
 			arr[i]=num;
