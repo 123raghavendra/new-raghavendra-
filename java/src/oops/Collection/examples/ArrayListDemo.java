@@ -37,7 +37,7 @@ public class ArrayListDemo {
 	/* isEmpty() is used to check if the collection is empty or not*/
 	//l.isEmpty();// wrong way to check  is empty
 	//
-	//System.out.(l.isEmpty());
+	//System.out.println(l.isEmpty());
 	
 	/*clear() will remove all the objects from collection*/
 	
